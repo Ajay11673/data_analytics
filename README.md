@@ -1,4 +1,6 @@
 # data_analytics
+Docker hub repo : https://hub.docker.com/r/lazyinventor/data_analytics/tags
+
 Docker hub pull cmd
 
 backend_db    -   docker pull lazyinventor/data_analytics:backend_db
