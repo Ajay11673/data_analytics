@@ -1,5 +1,5 @@
 # data_analytics
-Docker hub link
+Docker hub pull cmd
 
 backend_db    -   docker pull lazyinventor/data_analytics:backend_db
 
