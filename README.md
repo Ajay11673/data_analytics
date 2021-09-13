@@ -13,4 +13,5 @@ backend_web2  -  docker pull lazyinventor/data_analytics:backend_web2
 
 
 The port for web1 is 9090
-The port phone for or web2 is 9091
+
+The port for web2 is 9091
